@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+This website will be about the broader topic of the reception and representation of Buddhism and Hinduism in videogames.
+The main focus lies on two case studies, Cyberpunk 2077 and Far Cry 4. Both games were analysed and researched in a small case studie in a Blockseminar during my research in religious studies.
+Since the topic involves the research of digital media and falls in the broader case of digital humanities, I will use this way of presenting my results.
