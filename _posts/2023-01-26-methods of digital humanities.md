@@ -4,12 +4,16 @@ title: Methods of Digital Humanities-a small case studies
 categories: [digital humanities]
 ---
 # Introduction
+
 This post is a short review or conclusion of the small case studie I worked on in the course "Digitale Forschungsmethoden" in the Wintersemester 2022/2023. I used one of the methods that we have discussed and were teached in the seminar. More precisely I did a websraping of one blog on Popular Culture and Religion and than started a small textual analysis of the blog entries. 
 # Webscraping a Blog
+
 I started with a general research on blogs about religion and videogames. My first idea was actually to look at discussion about religion and buddhism in videogames in some reddit discussions. But because of the small timeframe of the seminar and other obligations I had not enough time to take a closer lokk into ways and methods for websrcaping a reddit post or discussion. My experiences here are either that I got offered to by programms which would automatically scrape this post for me, or I would have needed a lot more knowledge or experience in programming languages. Therefore I decided to use a more accessible website or blog as a case studie. Another problem that I came across in my research was that there are not so much blogs about religion and videogames, beside the ones regarding christianity and videogames, to be found. And if one can find a blogpost about the topic, there could only be found in differente blogs, so that a webscraping would have been not useful, because there I could just copy and past the entries in a table. 
 # Blog: Popular Culture and Religion
+
 The blog I found deals with the topic of theological discourse on popular culture (definition?). The blog has entries on differnt media of popular culture, like movies, series, comic books and music. The blog is based on the Popular Culture and Philosophy series from either Open Court Publishing or Blackwell. And beside blogpost about differente medias and the topic of religion from atheological point of view there are a lot of _call for papers_ in the blog. 
 # Methods for case studie
 ## Open Refine
+
 Since we have used the program open refine in the course of the seminar for different exercises I also used this program for my little project. The main goal here for me was to get the main information (like date and time, author of the blog entries) and especially the textual context of 
 ## AntCon
