@@ -26,4 +26,6 @@ Because of that I started a small more general textual analyses of the blog.
 
 # Results or Conclusion
 
-The use of webscarping tools and methods for the reasearch can be very fruitful, although it requires at least some basic understanding of the tools and methods. Especially for the analyses of large data sets, like blog post or social media posts it makes the gathering of data and the interpretation and anaylses of the data much more easier and quicker.
+The use of webscarping tools and methods for the reasearch can be very fruitful, although it requires at least some basic understanding of the tools and methods. Especially for the analyses of large data sets, like blog post or social media posts it makes the gathering of data and the interpretation and anaylses of the data much more easier and quicker. 
+After some time getting used to the tool I was able to get the information I needed from the blog and could then also use them for a anaylse of the blogposts. 
+For a more detailed and bigger research topic with a great amount of data that has to be collected and further processed tools like open refine and AntCon can be very helpful. Especially in regard of time and analysis. 
