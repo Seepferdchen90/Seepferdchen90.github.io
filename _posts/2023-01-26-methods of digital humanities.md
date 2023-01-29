@@ -15,5 +15,8 @@ The blog I found deals with the topic of theological discourse on popular cultur
 # Methods for case studie
 ## Open Refine
 
-Since we have used the program open refine in the course of the seminar for different exercises I also used this program for my little project. The main goal here for me was to get the main information (like date and time, author of the blog entries) and especially the textual context of 
+Since we have used the program open refine in the course of the seminar for different exercises I also used this program for my little project. The main goal here for me was to get the main information (like date and time, author of the blog entries) and especially the textual context of the blog posts. 
+Since we already had a little introduction to the program and had done some practical exercises with it, I did know what I had to do. And together with a small video guide we had for webscraping via open refine I did manage to scrape the information I needed at the end. 
+But there were of course also some problems involveld 
 ## AntCon
+
