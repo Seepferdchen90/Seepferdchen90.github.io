@@ -3,7 +3,6 @@ layout: post
 title: Methods of Digital Humanities-a small case studies
 categories: [digital humanities]
 ---
-# Introduction
 
 This post is a short review or conclusion of the small case studie I worked on in the course "Digitale Forschungsmethoden" in the Wintersemester 2022/2023. I used one of the methods that we have discussed and were teached in the seminar. More precisely I did a websraping of one blog on Popular Culture and Religion and than started a small textual analysis of the blog entries. 
 # Webscraping a Blog
