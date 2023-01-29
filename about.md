@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-This website will be about the broader topic of the reception and representation of Buddhism and Hinduism in videogames.
-The main focus lies on two case studies, Cyberpunk 2077 and Far Cry 4. Both games were analysed and researched in a small case studie in a Blockseminar during my research in religious studies.
-Since the topic involves the research of digital media and falls in the broader case of digital humanities, I will use this way of presenting my results.
+This blog was created as a small exercise in a seminar in religious studies at CERES, Ruhr University Bochum. The main goal here was to get some basic knowledge of how to use digital tolls in reasearch and studies. Therefore the entrie are examples of how such a blog can be used for representing and using digital tools in an academic context.
