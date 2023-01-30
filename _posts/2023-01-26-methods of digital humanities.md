@@ -27,7 +27,7 @@ After the files were stored in the right format the use of AntCon was easy. The 
 
 ![alt text](https://Seepferdchen90.github.io/assets/image/Screenshot (11).png)
 
-# Results or Conclusion
+# Conclusion
 
 In general this small exercise in webscraping a blog and playing with the tool for textual analysis together with the methods and practices I were introduced in the seminar made me aware of a lot of possibilities in regard of digital tool for the field of humanities and especially for religious studies. The use of webscraping tools and methods for the research can be very fruitful, although it requires at least some basic understanding of the tools and methods that will be used. Especially for the analyses of large data sets, like blog post or social media posts it makes the gathering of data and the interpretation and anaylses of the data much more easier and quicker. The two used programs open refine and Antcon were both very helpful and especially the first is good to work with, because of a lot of further information and instructions that can be found online.
 It is therefore worth at least considering the use of digital tools for research studies and in the teaching of religious studies. I at least will absolutely use one or two of the discussed methods or tools in the futur.
